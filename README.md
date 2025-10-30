@@ -1,16 +1,84 @@
-# React + Vite
+# 🌐 AppDost - Modern Web Development Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and elegant portfolio website built using **React.js** and **Tailwind CSS**.  
+It showcases various sections like Open Source Projects, Process Workflow, and more — designed to represent a full-stack developer’s capabilities with creativity and performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ Built with React.js + Tailwind CSS  
+- 💼 Showcases Open Source & Innovation Projects  
+- 🎨 Clean, modern, and responsive design  
+- 🧩 Component-based architecture  
+- 🌍 Smooth animations and interactive UI  
+- 🔧 Ready for backend integration (Node.js + Express)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏠 Home Page
+![Home Page](https://raw.githubusercontent.com/ManthanNimonkar/appdost-website/main/screenshots/home.png)
+
+### 💼 Projects Section
+![Projects](https://raw.githubusercontent.com/ManthanNimonkar/appdost-website/main/screenshots/projects.png)
+
+*(Replace the links above with your actual screenshot URLs once uploaded)*
+
+---
+
+## 🌎 Live Demo
+
+Check out the deployed version here:  
+👉 [**https://manthan-appdost.vercel.app**](https://appdost-project.vercel.app/)
+
+---
+
+## 👨‍💻 Author
+
+**Manthan Nimonkar**  
+🎓 IT Engineering Student | 💻 MERN Stack Developer | ♟️ National-level Chess Player  
+📧 [manthannimonkar@gmail.com](mailto:manthannimonkar@gmail.com)
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/manthannimonkar)  
+- 🐙 [GitHub](https://github.com/ManthanNimonkar)
+
+---
+
+## 💬 Feedback
+
+If you like this project, please give it a ⭐ on GitHub — it motivates me to build more creative web apps!
+
+---
+
+## 🏗️ Future Enhancements
+
+- ⚙️ Add backend using Node.js + Express  
+- 📊 Create admin dashboard  
+- 🔄 Integrate real-time data handling  
+- 📬 Add project submission and contact form  
+
+---
+
+### 🧠 Inspiration
+
+This project reflects my journey as a **Full Stack Developer**, showcasing creativity, technical skills, and clean design principles.
+
+---
+
+### 🪄 Technologies Used
+
+- **React.js**
+- **Tailwind CSS**
+- **Vite**
+- **React Icons**
+- **Vercel (Deployment)**
+
+---
+
+⭐ *Made with passion by [Manthan Nimonkar](https://github.com/ManthanNimonkar)*  
