@@ -21,7 +21,7 @@ It showcases various sections like Open Source Projects, Process Workflow, and m
 ## 🌎 Live Demo
 
 Check out the deployed version here:  
-👉 [**https://manthan-appdost.vercel.app**](https://appdost-project.vercel.app/)
+👉 [**https://appdost-project.vercel.app/**](https://appdost-project.vercel.app/)
 
 ---
 
