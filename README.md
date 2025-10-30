@@ -16,16 +16,6 @@ It showcases various sections like Open Source Projects, Process Workflow, and m
 
 ---
 
-## 🖼️ Screenshots
-
-### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/ManthanNimonkar/appdost-website/main/screenshots/home.png)
-
-### 💼 Projects Section
-![Projects](https://raw.githubusercontent.com/ManthanNimonkar/appdost-website/main/screenshots/projects.png)
-
-*(Replace the links above with your actual screenshot URLs once uploaded)*
-
 ---
 
 ## 🌎 Live Demo
@@ -46,7 +36,7 @@ Check out the deployed version here:
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manthannimonkar)  
-- 🐙 [GitHub](https://github.com/ManthanNimonkar)
+- 🐙 [GitHub](https://github.com/Manthancode28)
 
 ---
 
