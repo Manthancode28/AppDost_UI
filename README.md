@@ -35,7 +35,7 @@ Check out the deployed version here:
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manthannimonkar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manthan-nimonkar-082987297/)  
 - 🐙 [GitHub](https://github.com/Manthancode28)
 
 ---
